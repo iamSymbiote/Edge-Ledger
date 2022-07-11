@@ -7,7 +7,7 @@ Simple single page training project for me to understand the html/css advanced t
 ## Demo
 
 You can view the site here
-[Click Me](https://iamsymbiote.github.io/Simon-Game/)
+[Click Me](https://iamsymbiote.github.io/Edge-Ledger/)
 
 ## Topics
 
